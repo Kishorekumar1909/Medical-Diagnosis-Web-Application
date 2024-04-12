@@ -28,8 +28,7 @@ Although, we know that humans can do the mistakes but machines doesnt. Plus we c
 Front-end UX/UI, Back-end Machine learning, Deep learning flow chart
   
 
-![ml](https://user-images.githubusercontent.com/62024355/120781058-4fac3300-c546-11eb-83be-dfc8319fd2f3.png)
-  
+[Doc1.docx](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/files/14961789/Doc1.docx)  
   
   
   
