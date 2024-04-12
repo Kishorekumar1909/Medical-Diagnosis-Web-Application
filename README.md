@@ -11,10 +11,8 @@
   * [Technical Aspect](#technical-aspect)
   
 
-  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, BOOTSTRAP, ML, DL___ on ___github.io___ platform.
   
-  
-![Deep-Learning-vs-Machine-Learning](https://user-images.githubusercontent.com/62024355/120758532-95a9cc80-c52f-11eb-9e5f-2255cd9b8a6c.jpg)
+  ![machine-learning-helps-life-insurance-scaled](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/2bfb3035-3da4-4514-908e-ce3f8262a452)
 
   
 ## Problem Statment
