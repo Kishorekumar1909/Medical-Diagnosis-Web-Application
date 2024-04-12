@@ -92,7 +92,11 @@ index.html
   
 ## Screenshots
 
-
+![s1](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/f2076262-6bfb-4daa-9d33-e469bd5fb49d)
+![ser](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/39d2dbe7-7c90-440f-8a21-d4a62722f732)
+![pre](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/2629e199-52b8-4c2c-b0c3-bf15cf8d40c5)
+![res](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/4cf78581-0376-4f05-93e8-fd8417f480d7)
+![about](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/4d8d8db5-cc2a-4960-8266-a293475b5fe4)
 ![g2](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/5bb229b6-6894-412b-93a0-f9e2f1b61ae4)
 ![g4](https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/assets/166424022/07ea786c-6ab5-4d40-990f-161862c30c0d)
   
