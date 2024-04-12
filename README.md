@@ -94,7 +94,7 @@ index.html
 
 
 ![g1](https://user-images.githubusercontent.com/62024355/120784738-09f16980-c54a-11eb-8742-daca4ada33b0.jpg)
-![g2](https://user-images.githubusercontent.com/62024355/120784742-0a8a0000-c54a-11eb-81a3-daee8b1eafd8.jpg)
+https://github.com/Kishorekumar1909/Medical-Diagnosis-Web-Application/blob/main/templates/img/bg-img/g2.jpg
 ![g3](https://user-images.githubusercontent.com/62024355/120784744-0b229680-c54a-11eb-9596-d324a25a192a.jpg)
 ![g4](https://user-images.githubusercontent.com/62024355/120784746-0bbb2d00-c54a-11eb-9365-df3172efcde1.jpg)
 ![g5](https://user-images.githubusercontent.com/62024355/120784749-0bbb2d00-c54a-11eb-9d8a-3f4b53b9f208.jpg)
